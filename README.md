@@ -1,2 +1,3 @@
-# ESCALA
-Cria escala automática para trabalhos em horários 12x36 e administrativo.
+# Escala de Funcionários
+
+Aplicação Streamlit para geração de escalas mensais de trabalho com destaque para feriados e férias.
