@@ -1,1 +1,1 @@
-# Funções de geração de escala virão aqui
+# Funções de geração da escala (Excel e Word)

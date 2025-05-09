@@ -1,1 +1,1 @@
-# Código da interface Streamlit virá aqui
+# Código do app Streamlit será adicionado aqui

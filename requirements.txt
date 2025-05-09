@@ -1,5 +1,5 @@
 streamlit
 pandas
-openpyxl
+openpyxl==3.1.2
 python-docx
 holidays
