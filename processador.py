@@ -1,1 +1,1 @@
-# Funções de geração da escala (Excel e Word)
+# Coloque aqui as funções adaptadas do Colab para uso no Streamlit

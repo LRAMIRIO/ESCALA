@@ -1,3 +1,3 @@
-# Escala de Funcionários
+# Escala de Funcionários - Streamlit
 
-Sistema para geração de escalas mensais com destaque para feriados e férias.
+Interface gráfica para gerar escalas mensais com destaques de feriados e férias.
