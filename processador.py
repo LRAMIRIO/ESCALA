@@ -1,1 +1,2 @@
-# Coloque aqui as funções adaptadas do Colab para uso no Streamlit
+# Funções do processador adaptadas para Streamlit.
+# Cole aqui o conteúdo validado anteriormente.

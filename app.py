@@ -8,7 +8,6 @@ st.title("📅 Gerador de Escalas com Feriados e Férias")
 uploaded_file = st.file_uploader("📥 Envie a planilha modelo (.xlsx)", type=["xlsx"])
 if uploaded_file:
     st.success("Arquivo carregado com sucesso!")
-
     if st.button("🚀 Gerar arquivos"):
         zip_path = processar_arquivo(uploaded_file)
         with open(zip_path, "rb") as f:
